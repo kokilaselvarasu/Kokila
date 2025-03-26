@@ -9,7 +9,7 @@
     </tr>
     <tr>
       <th>Age:</th>
-      <td>25</td>
+      <td>19</td>
     </tr>
     <tr>
       <th>Degree:</th>
