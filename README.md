@@ -16,7 +16,7 @@
       <td>B.sc(Computer Science)</td>
     </tr>
     <tr>
-      <th>Year :3 Rd Year</th>
+      <th>Year :2 nd Year</th>
       <td>Imayam Art's and Science college </td>
     </tr>
     <tr>
