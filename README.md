@@ -5,7 +5,7 @@
   <table>
     <tr>
       <th>Name:</th>
-      <td>kokila.s</td>
+      <td>kokila.S</td>
     </tr>
     <tr>
       <th>Age:</th>
